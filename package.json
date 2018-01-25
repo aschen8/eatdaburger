@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "eatdaburger",
   "version": "1.0.0",
@@ -25,23 +24,3 @@
     "mysql": "^2.15.0"
   }
 }
-=======
-{
-  "name": "eat-da-burger",
-  "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aschen8/eatdaburger"
-  },
-  "keywords": [
-    "burgers",
-    "eating",
-    "burgerfi"
-  ]
-  }
->>>>>>> 37f8bfd6ec78bc2078b23d2855f06a0e9da2d9b4
